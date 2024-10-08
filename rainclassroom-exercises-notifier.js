@@ -59,6 +59,6 @@
     }
 
     // 定时轮询，页面即使不在前台也能运行
-    setInterval(checkForTimeBox, 2000); // 每 5 秒检测一次
+    setInterval(checkForTimeBox, 2000); // 每 2 秒检测一次
 
 })();
